@@ -1,19 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 27 Feb 2025 12:25:13 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <title></title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;who-is-this-luke-guy-be-brief&#34;&gt;Who is this Luke guy? Be brief.&lt;/h1&gt;
+&lt;p&gt;Luke is a programmer, data scientist, writer, and accidental jack-of-all trades living in Somerville, MA.&lt;/p&gt;
+&lt;h1 id=&#34;be-less-brief-and-use-the-first-person&#34;&gt;Be less brief and use the first person.&lt;/h1&gt;
+&lt;p&gt;I received an M.S of Computer Science from Northeastern in 2023, and a B.S in economics in 2015. Some topics that sap a disproportionate amount of
+my attention are the climate crisis, science and science communication, and political policy nerdom.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;who-is-this-luke-guy-be-brief&#34;&gt;Who is this Luke guy? Be brief.&lt;/h1&gt;
+&lt;p&gt;Luke is a programmer, data scientist, writer, and accidental jack-of-all trades living in Somerville, MA.&lt;/p&gt;
+&lt;h1 id=&#34;be-less-brief-and-use-the-first-person&#34;&gt;Be less brief and use the first person.&lt;/h1&gt;
+&lt;p&gt;I received an M.S of Computer Science from Northeastern in 2023, and a B.S in economics in 2015. Some topics that sap a disproportionate amount of
+my attention are the climate crisis, science and science communication, and political policy nerdom.&lt;/p&gt;
+&lt;p&gt;I have also worked a lot of jobs. Most recently I was a line cook; but I&amp;rsquo;ve also been a lifeguard, a dispatcher at Amazon logistics, a customer
+service representative and part-time data entry automation clerk, and a teacher&amp;rsquo;s assistant.&lt;/p&gt;
+&lt;p&gt;It is my ambition to use computers and technology to solve the big problems and further human knowledge.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>//localhost:1313/posts/my-first-post/</link>
       <pubDate>Thu, 27 Feb 2025 12:25:13 -0500</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;section&#34;&gt;SECTION&lt;/h2&gt;&#xA;&lt;p&gt;The thing to consider is not whether we &lt;em&gt;should&lt;/em&gt;, but whether we &lt;em&gt;can&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Loco? Estuve loco una vez.&lt;/p&gt;</description>
+      
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;section&#34;&gt;SECTION&lt;/h2&gt;
+&lt;p&gt;The thing to consider is not whether we &lt;em&gt;should&lt;/em&gt;, but whether we &lt;em&gt;can&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Loco? Estuve loco una vez.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;section&#34;&gt;SECTION&lt;/h2&gt;
+&lt;p&gt;The thing to consider is not whether we &lt;em&gt;should&lt;/em&gt;, but whether we &lt;em&gt;can&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Loco? Estuve loco una vez.&lt;/p&gt;
+</content>
     </item>
+    
   </channel>
 </rss>
