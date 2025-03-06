@@ -30,17 +30,44 @@ service representative and part-time data entry automation clerk, and a teacher&
     </item>
     
     <item>
-      <title>My First Post</title>
+      <title>On Tutorials</title>
       <link>//localhost:1313/posts/my-first-post/</link>
       <pubDate>Thu, 27 Feb 2025 12:25:13 -0500</pubDate>
       
       <guid>//localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;section&#34;&gt;SECTION&lt;/h2&gt;
-&lt;p&gt;The thing to consider is not whether we &lt;em&gt;should&lt;/em&gt;, but whether we &lt;em&gt;can&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Loco? Estuve loco una vez.&lt;/p&gt;</description>
-      <content>&lt;h2 id=&#34;section&#34;&gt;SECTION&lt;/h2&gt;
-&lt;p&gt;The thing to consider is not whether we &lt;em&gt;should&lt;/em&gt;, but whether we &lt;em&gt;can&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Loco? Estuve loco una vez.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;tutorials-are-awful&#34;&gt;Tutorials are awful&lt;/h2&gt;
+&lt;p&gt;Imagine a graph of tutorials-per-capita consumption over time. For most of human history, we&amp;rsquo;re blissfully free of them.
+No blog posts about git rebase, no semi-official Reddit pages about where the Windows control panel is hiding, no
+desperate smartphone-rendered YouTube videos on how to light a pilot light two hours before service starts. Alright
+that last one might be a little specific. Regardless, suddenly in the 20th century, it&amp;rsquo;s hundreds or maybe thousands of tutorials per year.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;tutorials-are-awful&#34;&gt;Tutorials are awful&lt;/h2&gt;
+&lt;p&gt;Imagine a graph of tutorials-per-capita consumption over time. For most of human history, we&amp;rsquo;re blissfully free of them.
+No blog posts about git rebase, no semi-official Reddit pages about where the Windows control panel is hiding, no
+desperate smartphone-rendered YouTube videos on how to light a pilot light two hours before service starts. Alright
+that last one might be a little specific. Regardless, suddenly in the 20th century, it&amp;rsquo;s hundreds or maybe thousands of tutorials per year.&lt;/p&gt;
+&lt;p&gt;And they never work!&lt;/p&gt;
+&lt;p&gt;Okay, that&amp;rsquo;s not true of course. I think the frustration I feel from them though is instructive. Because, while of course
+there are actually bad tutorials, mostly I think tutorials are pretty carefully constructed. But they&amp;rsquo;re frozen in time.
+And the most needed tutorials are technical tutorials, and are you even programming if you&amp;rsquo;re not using the absolute
+most-bleeding edge Javascript framework?&lt;/p&gt;
+&lt;p&gt;We have to sweat the details with technical work. The compiler cares if you forget a semicolon, and those technical details
+change all too quickly for technical tutorials to have much staying power. While ancient historians are allowed lengthy digressions
+on the nature of humanity and power that may ring true a thousand years later, a technical tutorial won&amp;rsquo;t even know what text
+editor you&amp;rsquo;ll be using in two decades.&lt;/p&gt;
+&lt;p&gt;But also, wouldn&amp;rsquo;t it be great if the tutorials were a compiled language? Obsolete references getting automatically flagged for review?
+Code examples runnable within the text itself?&lt;/p&gt;
+&lt;p&gt;Actually, that&amp;rsquo;s thinking too small. The tutorial &lt;em&gt;itself&lt;/em&gt; should solve the problem! A computer can be made to always interpret the text
+the same way, so these tutorials could be exchanged between writers to solve all sorts of problems!&lt;/p&gt;
+&lt;p&gt;Oops, I re-invented programming languages again.&lt;/p&gt;
+&lt;p&gt;This kind of thinking, however, is what leads to my interest in Nix. The kinds of problems we solve tend to need to be solved over and
+over, and it is my hope the Nix&amp;rsquo;s emphasis on reproducibility will make these not-very-new new problems easier to address.&lt;/p&gt;
+&lt;p&gt;So this Hugo website is running on a NixOs computer in my room. Nix handles the installation and configuration of the software. So,
+I write Nix files that tell the computer where to get the blog, the Hugo theme, the NGINX reverse proxy, the Let&amp;rsquo;s Encrypt certificate,
+and maybe some other stuff that I forgot about.&lt;/p&gt;
+&lt;p&gt;Was this the easiest way to get a website up and running? Absolutely not. But it was the most interesting. So big shout out to
+Janne Pulkkinen, aka Matoking, whose tutorial &lt;a href=&#34;https://matoking.com/blog/2023/07/08/deploying-hugo-site-using-nixos-and-nginx/&#34;&gt;Deploying Hugo site using NixOS and nginx&lt;/a&gt;
+was extremely helpful! And my advice to myself when I&amp;rsquo;m feeling frustrated with a technical problem and a tutorial is: It&amp;rsquo;s
+probably not the tutorials fault.&lt;/p&gt;
 </content>
     </item>
     
