@@ -14,7 +14,7 @@ pagination.pagerSize = 5
   themeColor = "red"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
@@ -75,7 +75,7 @@ pagination.pagerSize = 5
   [languages.en.params]
     languageName = "English"
     title = "re-Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "Luke VanDerMale's Website"
     owner = ""
     keywords = ""
     copyright = ""
@@ -110,7 +110,14 @@ pagination.pagerSize = 5
         identifier = "about"
         name = "About"
         url = "/about"
-
+      [[languages.en.menu.main]]
+        identifier = "projects"
+        name = "Projects"
+        url = "/projects" # This points to ./content/projects and displays multiple files as a list.
+      [[languages.en.menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts" # This points to ./content/projects and displays multiple files as a list.
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
   # uncomment the line below (and correct the local path if necessary).
